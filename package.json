@@ -9,5 +9,5 @@
   "author": "",
   "license": "ISC",
   "private": true,
-  "workspaces": ["leshen-ui", "site"]
+  "workspaces": ["@leshen/ui", "gatsby-theme-tuna", "site"]
 }
