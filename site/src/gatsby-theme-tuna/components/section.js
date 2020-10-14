@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const Section = () => {
-  return (
-    <h1>
-      Hello world
-    </h1>
-  )
-}
+const Section = () => (
+  <h1>
+    Hello world
+  </h1>
+);
 
-export default Section
+export default Section;

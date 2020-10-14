@@ -21,6 +21,9 @@
   "devDependencies": {
     "prettier": "2.1.2"
   },
+  "peerDependencies": {
+    "@leshen/ui": ">= 0.1.0"
+  },
   "keywords": [
     "gatsby"
   ],

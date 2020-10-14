@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const Button = ({children, size}) => {
-  return (
-    <button>
-      {children}
-    </button>
-  )
-}
+const Button = ({ children, size }) => (
+  <button type="button">
+    {`${size} - ${children}`}
+  </button>
+);
 
-export default Button
+export default Button;
